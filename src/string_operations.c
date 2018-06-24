@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// I am modifying this before stash.
 size_t my_strlen(const char *s)
 {
    const char *p = s;
